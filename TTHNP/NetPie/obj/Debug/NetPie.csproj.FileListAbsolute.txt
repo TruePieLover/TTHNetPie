@@ -1,0 +1,8 @@
+C:\TTHNetPie\TTHNP\NetPie\bin\Debug\NetPie.exe
+C:\TTHNetPie\TTHNP\NetPie\bin\Debug\NetPie.pdb
+C:\TTHNetPie\TTHNP\NetPie\obj\Debug\NetPie.csprojAssemblyReference.cache
+C:\TTHNetPie\TTHNP\NetPie\obj\Debug\NetPie.csproj.CoreCompileInputs.cache
+C:\TTHNetPie\TTHNP\NetPie\obj\Debug\NetPie.exe
+C:\TTHNetPie\TTHNP\NetPie\obj\Debug\NetPie.pdb
+C:\TTHNetPie\TTHNP\NetPie\bin\Debug\Colorful.Console.dll
+C:\TTHNetPie\TTHNP\NetPie\obj\Debug\NetPie.csproj.CopyComplete

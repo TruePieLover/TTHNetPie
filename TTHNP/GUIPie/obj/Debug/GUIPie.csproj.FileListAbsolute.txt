@@ -1,0 +1,10 @@
+C:\TTHNetPie\TTHNP\GUIPie\bin\Debug\GUIPie.exe.config
+C:\TTHNetPie\TTHNP\GUIPie\bin\Debug\GUIPie.exe
+C:\TTHNetPie\TTHNP\GUIPie\bin\Debug\GUIPie.pdb
+C:\TTHNetPie\TTHNP\GUIPie\obj\Debug\GUIPie.csprojAssemblyReference.cache
+C:\TTHNetPie\TTHNP\GUIPie\obj\Debug\GUIPie.Properties.Resources.resources
+C:\TTHNetPie\TTHNP\GUIPie\obj\Debug\GUIPie.csproj.GenerateResource.cache
+C:\TTHNetPie\TTHNP\GUIPie\obj\Debug\GUIPie.csproj.CoreCompileInputs.cache
+C:\TTHNetPie\TTHNP\GUIPie\obj\Debug\GUIPie.exe
+C:\TTHNetPie\TTHNP\GUIPie\obj\Debug\GUIPie.pdb
+C:\TTHNetPie\TTHNP\GUIPie\obj\Debug\GUIPie.MainForm.resources
